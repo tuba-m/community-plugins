@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-plugin-test-1
+  title: '@backstage-community/plugin-test-1'
+spec:
+  lifecycle: experimental
+  type: backstage-frontend-plugin
+  owner: tuba
